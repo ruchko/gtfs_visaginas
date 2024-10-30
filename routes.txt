@@ -1,0 +1,8 @@
+agency_id,route_color,route_id,route_long_name,route_short_name,route_text_color,route_type
+visaginas,,K,Kapinės,K,,3
+visaginas,,S,Statybininkas,S,,3
+visaginas,,V,Vyšnia,V,,3
+visaginas,,P,Pavasaris,P,,3
+visaginas,,SB,Sodu bendrijos,SB,,3
+visaginas,,L,Lapušiškės,L,,3
+visaginas,,8,Visaginas,8,,3

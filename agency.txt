@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_timezone,agency_url
+visaginas,visagino savivaldybė,Europe/Vilnius,https://www.visaginas.lt/gyventojams/autobusu-ir-traukiniu-eismo-tvarkarasciai/33
+TEST,TEST,Europe/Vilnius,www.tts.lt
+

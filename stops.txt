@@ -1,0 +1,27 @@
+stop_id,stop_lat,stop_lon,stop_name,wheelchair_boarding,zone_id
+naujosios_kapines,55.57614,26.47034,Naujosios kapinės,0,naujosios_kapines
+statybos_baze,55.57618,26.47471,Statybos bazė,0,statybos_baze
+statybininkas,55.56634,26.48351,Statybininkas,0,statybininkas
+vysnia2,55.60199,26.50555,Vyšnia-2,0,vysnia2
+druksiu_ezeras,55.60841,26.49425,Drūkšiu ežeras,0,druksiu_ezeras
+vysnia1,55.60116,26.49331,Vyšnia-1,0,vysnia1
+kalviskiu_kapines,55.56019,26.41132,Kalviškiu kapinės,0,kalviskiu_kapines
+kalviskes,55.55149,26.41674,Kalviškės,0,kalviskes
+magunai,55.56375,26.44829,Magūnai,,magunai
+parduotuve,55.57438,26.44506,Parduotuvė (masyvas L),0,parduotuve
+lapusiske,55.56956,26.42267,Lapušiškė,0,1
+ramybe,55.58195,26.40188,Ramybė,0,1
+stotis,55.6136,26.41728,Geležinkelio stotis,0,0
+kosmoso,55.60499,26.42418,Kosmoso,0,0
+turgus,55.60102,26.4236,Turgus,0,0
+ezerynas,55.59789,26.42335,Ežerynas,0,0
+parko,55.59687,26.43142,Parko,0,0
+santarves,55.59414,26.43851,Santarvės,0,0
+jaunystes,55.58951,26.44187,Jaunystės,0,0
+zalioji,55.5862,26.44662,Žalioji,0,0
+draugystes,55.59012,26.45092,Draugystės,0,0
+energetiku,55.59351,26.45397,Energetikų,0,0
+vilkaragis,55.59541,26.45134,Vilkaragis,0,0
+statybininku,55.59764,26.44663,Statybininkų,0,0
+biblioteka,55.60064,26.44032,Biblioteka,0,0
+ligonine,55.604898,26.431462,Ligoninė,0,0

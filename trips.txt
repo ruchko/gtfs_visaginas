@@ -1,0 +1,28 @@
+direction_id,route_id,service_id,shape_id,trip_headsign,trip_id,trip_short_name
+0,8,1234567,,Visaginas,default_trip,Visaginas
+0,L,135,,Lapušiškė,L0800,L 08:00 to Lapušiškė
+0,L,135,,Lapušiškė,L0920,L 09:20 to Lapušiškė
+0,L,135,,Lapušiškė,L1600,L 16:00 to Lapušiškė
+0,L,135,,Lapušiškė,L1815,L 18:15 to Lapušiškė
+1,L,135,,Lapušiškė,L0826,L 08:26 to Visaginas
+1,L,135,,Lapušiškė,L1000,L 10:00 to Visaginas
+1,L,135,,Lapušiškė,L1650,L 16:50 to Visaginas
+1,L,135,,Lapušiškė,L1850,L 18:50 to Visaginas
+0,L,7,,Lapušiškė,L1010,L 10:10 to Lapušiškė
+0,L,7,,Lapušiškė,L1840,L 18:40 to Lapušiškė
+1,L,7,,Lapušiškė,L1040,L 10:40 to Visaginas
+1,L,7,,Lapušiškė,L1910,L 19:10 to Visaginas
+0,P,2467,,Pavasaris,P0720,07:20 Pavasaris
+0,P,2467,,Pavasaris,P0830,08:30 Pavasaris
+0,P,2467,,Pavasaris,P1500,15:00 Pavasaris
+0,P,2467,,Pavasaris,P1730,17:30 Pavasaris
+0,V,2467,,Vyšnia,V0745,07:45 Vyšnia
+0,V,2467,,Vyšnia,V0930,09:30 Vyšnia
+0,V,2467,,Vyšnia,V1600,16:00 Vyšnia
+0,V,2467,,Vyšnia,V1823,18:23 Vyšnia
+0,S,2467,,Statybininkas,S0842,08:42 Statybininkas
+0,S,2467,,Statybininkas,S1027,10:27 Statybininkas
+0,S,2467,,Statybininkas,S1659,16:59 Statybininkas
+0,S,2467,,Statybininkas,S1922,19:22 Statybininkas
+0,K,6,,Kapinės,K0939,09:39 Kapinės
+1,K,6,,Kapinės,K1137,11:37 Visaginas
